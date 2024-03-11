@@ -1,0 +1,19 @@
+2023/10/28 下午 02:20:03 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:05 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:06 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:07 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:08 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:08 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:08 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:08 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:08 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:09 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:09 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:09 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:09 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:09 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:09 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:20:10 127.0.0.1 call api to get server system time.
+2023/10/28 下午 02:34:17 127.0.0.1 call api to get server system time.
+Detect same program running...Process-13420 is killed
+2023-10-28 14:49:54.3311 [16064] Time Server Start-[16064]
