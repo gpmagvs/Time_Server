@@ -37,9 +37,10 @@ app.UseHttpsRedirection();
 
 app.MapGet("/", (ILogger<Program> logger, HttpContext context) =>
 {
-    var msg = $"{context.Connection.RemoteIpAddress?.ToString()} call api to get server system time.";
+    var time_response = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+    var msg = $"{context.Connection.RemoteIpAddress?.ToString()} call api to get server system time. Response:{time_response}";
     Log(msg);
-    return DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+    return time_response;
 }).WithName("");
 
 app.Run();
